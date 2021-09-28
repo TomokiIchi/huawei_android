@@ -1,4 +1,4 @@
-package com.example.huawei_android
+package com.example.app
 
 import org.junit.Test
 
